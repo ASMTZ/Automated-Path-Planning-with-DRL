@@ -4,7 +4,8 @@ We provide the code repository for our paper This repository includes the necess
 CDRL based GTO to GEO transfer  
 <![CDRL based GTO to GEO transfer](https://github.com/talhazaidi13/Cascaded-Deep-Reinforcement-Learning-Based-Multi-Revolution-Low-Thrust-Spacecraft-Orbit-Transfer/blob/main/paper-outputs/GTO-GEO.gif) 
 
-
+## Appendix
+For comprehensive implementation details including all modeling assumptions and algorithm parameter settings, please check the attached appendix file. 
 
 ## Files Description
 
