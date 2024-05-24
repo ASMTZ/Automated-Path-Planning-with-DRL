@@ -108,7 +108,6 @@ For comprehensive implementation details including all modeling assumptions and 
    ```shell
        git --version
    ```
-            <br>
 
 ## Running the code:
 
